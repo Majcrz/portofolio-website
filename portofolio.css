@@ -1,0 +1,40 @@
+.contacts{
+    padding-right: 150px;
+    
+}
+
+.navbar .navbar-brand{
+    padding-left: 150px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 30px;
+}
+.container a{
+    margin-top: 20px;
+
+    
+}
+.navbar-nav a{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    margin-right: 50px;
+    font-size: 15px;
+
+}
+.body1{
+    background-image: url(https://wallpapercave.com/wp/wp11520610.jpg);
+    height: 1000px;
+    background-size: cover;
+}
+img{
+    margin-left: -560px;
+    margin-top: -41px;
+}
+.body2{
+    background-image: url(https://wallpapercave.com/dwp1x/wp10437526.jpg);
+    height: 845px;
+    background-size: cover;
+}
+html{
+    scroll-behavior: smooth;
+}
